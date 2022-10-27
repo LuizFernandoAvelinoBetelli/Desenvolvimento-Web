@@ -1,0 +1,157 @@
+button {
+  color: #008000;
+  transition: 0.3s;
+  cursor: pointer;
+  background: none;
+  border: 2px solid;
+  font: inherit;
+  line-height: 1;
+  margin: 0.5em;
+  padding: 1em 2em;
+  font-size: 20px;
+}
+
+button:hover,
+button:focus {
+  border-color: #008000;
+  color: rgb(255, 255, 255);
+}
+
+.raise :hover,
+.raise :focus {
+  box-shadow: 0 0.5em 0.5em -0.4em #008000;
+  transform: translateY(-0.25em);
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+a {
+  font-style: none;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 2em;
+  text-align: center;
+  text-indent: 1em;
+  text-decoration: none;
+  padding-left: 37px;
+  font-weight: bold;
+}
+
+body {
+  background-color: goldenrod;
+}
+
+nav {
+  padding: 30px;
+  background-color: goldenrod;
+}
+
+h2 {
+  color: #4f7942;
+  font-size: 2em;
+
+}
+
+.butao {
+  list-style: none;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  color: black;
+  font-size: 2em;
+}
+
+p {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5em;
+
+}
+
+li {
+  font-size: 2em;
+  font-weight: bold;
+
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.frutasss {
+  height: 350px;
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.legumesa {
+  height: 350px;
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.verdurass {
+  height: 350px;
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.aa {
+  height: 350px;
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.bb {
+  height: 350px;
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.cc {
+  height: 350px;
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.dd {
+  height: 350px;
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.ee {
+  height: 350px;
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.ff {
+  height: 350px;
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}

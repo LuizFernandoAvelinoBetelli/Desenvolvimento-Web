@@ -1,0 +1,88 @@
+:root {
+    --amarelo: #f9d423;/* F9D423 EDDE45*/
+    --vermelho: #FF0000; /*#FF0000 %5A0303*/
+}
+
+
+header, footer {
+    width: auto;
+    background: rgba(80,80,80,0.2);
+    line-height: 3em;
+}
+
+header {
+   
+    border-top-right-radius: 10px ;
+    border-top-left-radius: 10px;
+    height: 110px;
+    
+}
+
+
+footer {
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    height: 100px;
+    color: red;
+    font: 10em;
+}
+
+header, h1,footer p {
+    text-align: center;
+    text-shadow: 1px 1px black;
+}
+
+article {
+    margin-top: 10px;
+    width: 40%;
+    border: 1px dashed red;
+    height: 400px;
+    margin-left: 5%;
+    position: relative;
+    float: left;
+}
+
+
+.bgAmarelo { background-color: #edde45;
+
+}
+.bgAzul    {background-color: #0000FF;}
+.bgVermelho {background-color: #FF0000;}
+.bgVerde {background-color: #00FF00;}
+.bgPreto {background-color: #000000;}
+.bgRoxo {background-color: lightcoral;}
+
+.txtBranco {color: #ffffff;}
+.txtAmarelo {color: #EDDE45;}
+.txtAzul {color: #0000FF;}
+.txtVermelho {color: #FF0000;}
+.txtVerde {color: #00FF00;}
+.txtPreto {color: #000000;}
+
+.borda-0 {border: none;}
+.borda-1 {border: solid 1px;}
+.borda-2 {border: solid 2px;}
+.borda-3 {border: solid 3px;}
+.borda-r0 {border-radius: 0px;}
+.borda-r5 {border-radius: 5px;}
+.borda-r10 {border-radius: 10px;}
+
+.bordaBranco {border-color: #ffffff;}
+.bordaAmarelo {border-color: #f7bd1d;}
+.bordaAzul {border-color: #0000FF;}
+.bordaVermelho {border-color: #FF0000}
+.bordaVerde {border-color: #00FF00;}
+.bordaPreto {border-color: #000000;}
+
+.moveimg3{
+    margin: 0 auto;
+    display: block;
+    width: 535px;
+    height: 400px;
+    background-image:url(ominiman.png);
+   
+}
+
+.moveimg3:hover{
+    background-position: -535px 0px;
+}
